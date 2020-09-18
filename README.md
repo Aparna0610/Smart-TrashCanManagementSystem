@@ -1,6 +1,8 @@
 # Smart-TrashCanManagementSystem
 ### Executive Summary
 ###### 
+This project designs a computer-based information system for Smart Trash Can Management, analyzing existing system and business situations by requirements gathering and also using object-oriented design principles and methodologies, some of which includes the BPMN diagram, Context diagram, Use Case diagram etc.
+
 In some places, it has been observed that the trash cans are overflowing with trash, and they stay full until their designated cleaning time. As a result, this problem leads to pollution and sometimes the spread of diseases.
 Therefore, our group introduces the Smart Trash Can Management System, which is a cost effective and efficient automated IOT based system whose main objective is to resolve problems for trash collection and management by using ultrasonic sensors to monitor the fill capacity percentage of every trash can. Moreover, the system also provides recommendations for where there is a need of a new trash can so as to minimize the cost and human effort.
 

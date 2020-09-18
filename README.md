@@ -44,7 +44,7 @@ We can use solar powered batteries in the sensors, which will reduce the cost of
 
 AWS IoT Core Services such as AWS IoT Greengrass, RTOS etc., can be incorporated that lets AWS extend to edge devices. Edge devices in our proposed system are the trash cans fixed with sensors. Benefits of using AWS IoT Core services ranges from connecting and managing devices, securing device connections and data, processing and acting upon device data, reading and setting device state at any time etc.
 
-Click link to watch the project presentation
+Click link to watch the project presentation:
 https://www.youtube.com/watch?v=jhJgJRRoB_E&feature=youtu.be
 
 Link to Project Report:

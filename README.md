@@ -46,3 +46,6 @@ AWS IoT Core Services such as AWS IoT Greengrass, RTOS etc., can be incorporated
 
 Click link to watch the project presentation
 https://www.youtube.com/watch?v=jhJgJRRoB_E&feature=youtu.be
+
+Link to Project Report:
+https://docs.google.com/document/d/1QcbJLM_NiFrVoF9i_BPdGy6PzdPONUGNeqgI3h5Y2Kw/edit?usp=sharing
